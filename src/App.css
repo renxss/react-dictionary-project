@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  font-family: "Cerebri Sans", Helvetica, Arial, sans-serif;
+  font-weight: 900px;
+}
+
+.App-header {
+  gap: 0.5rem;
+  font-size: calc(10px + 2vmin);
+  color: rgb(9, 7, 24);
+  padding: 2rem 1.5rem;
+  min-height: 160px;
+}
+
+.App-logo {
+  max-width: 400px;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+.App-title {
+  font-size: 2.4rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
